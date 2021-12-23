@@ -1,2 +1,3 @@
-insert func(){}
+package func()
+func main() {}
 
