@@ -1,3 +1,3 @@
 # test
 
-ejemplo de repo.
+Esto es un ejemplo, no tiene contenido.
