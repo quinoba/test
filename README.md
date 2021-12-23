@@ -1,3 +1,3 @@
 # test
 
-Esto es un prueba, no tiene contenido.
+Esto es una prueba, no tiene contenido.
