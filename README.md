@@ -1,3 +1,3 @@
 # test
 
-Esto es un ejemplo, no tiene contenido.
+Esto es un prueba, no tiene contenido.
